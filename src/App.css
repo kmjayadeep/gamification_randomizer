@@ -1,1 +1,8 @@
 @import url("https://stackpath.bootstrapcdn.com/bootswatch/4.5.0/lumen/bootstrap.min.css");
+
+.btn-extra-lg {
+  padding: 1rem;
+  font-size: 1.3rem;
+  border-radius: 50%;
+  height: 9rem;
+}
