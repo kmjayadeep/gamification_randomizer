@@ -18,7 +18,7 @@ function Home() {
       <div className="row container-fluid">
         <div className="col">
           <div class="card mb-3">
-            <h3 class="card-header">Active Meetings</h3>
+            <h3 class="card-header bg-primary text-white">Active Meetings</h3>
             <div class="card-body">
               <h5 class="card-title">11 June 2020</h5>
               <h6 class="card-subtitle text-muted">Week 1</h6>
@@ -50,7 +50,7 @@ function Home() {
         </div>
         <div className="col">
           <div class="card mb-3">
-            <h3 class="card-header">History</h3>
+            <h3 class="card-header bg-primary text-white">History</h3>
             <ul class="list-group list-group-flush">
               <li class="list-group-item">
                 <h5 class="card-title">31 May 2020</h5>
